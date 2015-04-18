@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="ImageCutOut/ImageCutOut.fsproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ImageCutOut/Program.fs">
+    <Files>
+      <File FileName="ImageCutOut/Program.fs" Line="8" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/arekbee/Code/git/ImageCutOutFSharp/ImageCutOut/ImageCutOut/Program.fs" line="17" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
