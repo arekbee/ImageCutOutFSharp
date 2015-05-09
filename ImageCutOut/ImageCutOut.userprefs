@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ImageCutOut/Program.fs">
     <Files>
-      <File FileName="ImageCutOut/Program.fs" Line="8" Column="7" />
+      <File FileName="ImageCutOut/Program.fs" Line="17" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
